@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.12)  12 FEB 2026 06:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.12)  12 FEB 2026 06:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -701,19 +701,249 @@ ble
 put line 78.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 14.4pt on input line 78.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 78.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 78.
 
-! Argument of \cvjobtitle has an extra }.
-<inserted text> 
-                \par 
-l.78 	\makeprofile
-                   % Print the sidebar 
+
+LaTeX Font Warning: Font shape `T1/ClearSans-TLF/m/sc' undefined
+(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 78.
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <14.4> not avail
+able
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
+put line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 78.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
+Overfull \hbox (4.3538pt too wide) in paragraph at lines 78--78
+[][]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <10> not availab
+le
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
+put line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 78.
+
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 78--78
+[][]| 
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 78--78
+[]\T1/ClearSans-TLF/regular/n/10 34/1-D, Di-nonath Sen Road,
+ []
+
+
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 78--78
+[][]| 
+ []
+
+
+Overfull \hbox (4.95634pt too wide) in paragraph at lines 78--78
+[][]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <12> not availab
+le
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
+put line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 78.
+
+Overfull \hbox (4.14384pt too wide) in paragraph at lines 78--78
+[][]| 
+ []
+
+
+Overfull \hbox (1.70769pt too wide) in paragraph at lines 78--78
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not avail
+able
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
+put line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 20.74pt on input line 78.
+
+Overfull \hbox (1.09435pt too wide) in paragraph at lines 78--78
+\T1/ClearSans-TLF/regular/n/20.74 Computer Lit-er-acy
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <10> not availabl
+e
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
+ line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
+
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
+put line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 78.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
+
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
+put line 98.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 98.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on in
+put line 98.
+(/usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
+File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearS
+ans-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not availab
+le
+(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on i
+nput line 98.
+LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 98.
+
+Overfull \hbox (0.44278pt too wide) in alignment at lines 93--99
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--108
+
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 110--110
+[]  \T1/ClearSans-TLF/bold/n/10 Enu-mer-a-tor, "CY-CLES Ques-tion-naire Sur-vey
+" Project un-der
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 118--120
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 123--133
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--203
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not availab
+le
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on i
+nput line 207.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 207.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--217
+
+ []
+
+File: 300x300.jpg Graphic file (type jpg)
+<use 300x300.jpg>
+Package pdftex.def Info: 300x300.jpg  used on input line 231.
+(pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
+
+Overfull \hbox (4.3538pt too wide) in paragraph at lines 231--231
+[][]| 
+ []
+
+
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 231--231
+[][]| 
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 231--231
+[]\T1/ClearSans-TLF/regular/n/10 34/1-D, Di-nonath Sen Road,
+ []
+
+
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 231--231
+[][]| 
+ []
+
+
+Overfull \hbox (4.95634pt too wide) in paragraph at lines 231--231
+[][]| 
+ []
+
+
+Overfull \hbox (4.14384pt too wide) in paragraph at lines 231--231
+[][]| 
+ []
+
+
+Overfull \hbox (1.70769pt too wide) in paragraph at lines 231--231
+[][] 
+ []
+
+
+Overfull \hbox (1.09435pt too wide) in paragraph at lines 231--231
+\T1/ClearSans-TLF/regular/n/20.74 Computer Lit-er-acy
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
+st/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{/usr/share/texlive/texmf-dist/font
+s/enc/dvips/clearsans/clr_nrghxx.enc} <./300x300.jpg>] (./template.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `template.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 20681 strings out of 476182
- 386166 string characters out of 5795595
- 1923975 words of memory out of 5000000
- 42353 multiletter control sequences out of 15000+600000
- 574515 words of font info for 39 fonts, out of 8000000 for 9000
+ 20814 strings out of 476182
+ 389394 string characters out of 5795595
+ 1973975 words of memory out of 5000000
+ 42461 multiletter control sequences out of 15000+600000
+ 611003 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,7n,121p,523b,731s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,16n,121p,523b,890s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on template.pdf (1 page, 102784 bytes).
+PDF statistics:
+ 46 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!

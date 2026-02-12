@@ -71,7 +71,7 @@
 \newcommand{\cvnumberphone}[1]{\renewcommand{\cvnumberphone}{#1}}
 \newcommand{\cvaddress}[1]{\renewcommand{\cvaddress}{#1}}
 \newcommand{\cvsite}[1]{\renewcommand{\cvsite}{#1}}
-% \newcommand{\cvlinkedin}[1]{\renewcommand{\cvlinkedin}{#1}}
+\newcommand{\cvlinkedin}[1]{\renewcommand{\cvlinkedin}{#1}}
 \newcommand{\profilepic}[1]{\renewcommand{\profilepic}{#1}}
 \newcommand{\cvname}[1]{\renewcommand{\cvname}{#1}}
 \newcommand{\cvjobtitle}[1]{\renewcommand{\cvjobtitle}{#1}}
