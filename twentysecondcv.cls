@@ -161,13 +161,13 @@
 			\end{flushleft}
 		}
 		\ifthenelse{\equal{\technicalskill}{}}{}{
-			\profilesection{Computer Literacy}
+			\profilesection{Tech Stack}
 			\begin{flushleft}
 				\technicalskill
 			\end{flushleft}
 		}
 		\ifthenelse{\equal{\softskillset}{}}{}{
-			\profilesection{Key Skills}
+			\profilesection{Soft Skills}
 			\begin{flushleft}
 				\softskillset
 			\end{flushleft}

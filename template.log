@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.12)  12 FEB 2026 12:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.12)  14 FEB 2026 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -709,198 +709,186 @@ Package hyperref Info: Link coloring OFF on input line 32.
 \@outlinefile=\write4
 \openout4 = `template.out'.
 
-<300x300.jpg, id=6, 301.125pt x 301.125pt>
-File: 300x300.jpg Graphic file (type jpg)
-<use 300x300.jpg>
-Package pdftex.def Info: 300x300.jpg  used on input line 78.
-(pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
+<border_image.png, id=6, 491.8375pt x 491.8375pt>
+File: border_image.png Graphic file (type png)
+<use border_image.png>
+Package pdftex.def Info: border_image.png  used on input line 80.
+(pdftex.def)             Requested size: 142.26378pt x 142.26147pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 78.
+(Font)              scaled to size 24.88pt on input line 80.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 78.
+(Font)              scaled to size 14.4pt on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 78.
+(Font)              <7> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 78.
+(Font)              <5> on input line 80.
 
 
 LaTeX Font Warning: Font shape `T1/ClearSans-TLF/m/sc' undefined
-(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 78.
+(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 80.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 78.
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 78.
+(Font)              scaled to size 14.4pt on input line 80.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 80.
 
 (C:\Users\leoda\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\umvs.fd)
-Overfull \hbox (4.3538pt too wide) in paragraph at lines 78--78
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 80--80
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\T1/ClearSans-TLF/m/n/10 34/1-D Di-nonath Sen Road,
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 80.
+
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 80--80
+[][]| 
+ []
+
+
+Overfull \hbox (4.95634pt too wide) in paragraph at lines 80--80
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 78.
+(Font)              scaled to size 12.0pt on input line 80.
 
-Overfull \hbox (3.5164pt too wide) in paragraph at lines 78--78
+Overfull \hbox (4.14384pt too wide) in paragraph at lines 80--80
 [][]| 
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 78--78
-[]\T1/ClearSans-TLF/m/sc/10 34/1-D, Di-nonath Sen Road,
- []
-
-
-Overfull \hbox (3.29912pt too wide) in paragraph at lines 78--78
-[][]| 
- []
-
-
-Overfull \hbox (4.95634pt too wide) in paragraph at lines 78--78
-[][]| 
- []
-
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 78.
-
-Overfull \hbox (4.14384pt too wide) in paragraph at lines 78--78
-[][]| 
- []
-
-
-Overfull \hbox (1.70769pt too wide) in paragraph at lines 78--78
+Overfull \hbox (1.70769pt too wide) in paragraph at lines 80--80
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 78.
-
-Overfull \hbox (1.09435pt too wide) in paragraph at lines 78--78
-\T1/ClearSans-TLF/m/n/20.74 Computer Lit-er-acy
- []
-
+(Font)              scaled to size 20.74pt on input line 80.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 78.
+(Font)              scaled to size 10.0pt on input line 80.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 78.
+(Font)              scaled to size 7.0pt on input line 80.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 98.
+(Font)              scaled to size 8.0pt on input line 96.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on in
-put line 98.
-
-(C:\Users\leoda\AppData\Local\Programs\MiKTeX\tex/latex/clearsans\ts1clearsans-
-tlf.fd
-File: TS1ClearSans-TLF.fd 2025/03/27 (autoinst) Font definitions for TS1/ClearS
-ans-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 98.
-
-Overfull \hbox (0.44278pt too wide) in alignment at lines 93--99
-[] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--100
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--104
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--108
+Underfull \hbox (badness 10000) in paragraph at lines 108--113
 
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 110--110
-[]  \T1/ClearSans-TLF/b/n/10 Enu-mer-a-tor, "CY-CLES Ques-tion-naire Sur-vey" P
-roject un-der
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 120--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 134--144
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 123--133
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--186
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--203
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--233
 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 207.
+(Font)              scaled to size 10.0pt on input line 237.
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--217
+Underfull \hbox (badness 10000) in paragraph at lines 236--246
 
  []
 
-File: 300x300.jpg Graphic file (type jpg)
-<use 300x300.jpg>
-Package pdftex.def Info: 300x300.jpg  used on input line 231.
-(pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
+File: border_image.png Graphic file (type png)
+<use border_image.png>
+Package pdftex.def Info: border_image.png  used on input line 258.
+(pdftex.def)             Requested size: 142.26378pt x 142.26147pt.
 
-Overfull \hbox (4.3538pt too wide) in paragraph at lines 231--231
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 258--258
 [][]| 
  []
 
 
-Overfull \hbox (3.5164pt too wide) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\T1/ClearSans-TLF/m/sc/10 34/1-D Di-nonath Sen Road,
+ []
+
+
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 258--258
 [][]| 
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 231--231
-[]\T1/ClearSans-TLF/m/sc/10 34/1-D, Di-nonath Sen Road,
- []
-
-
-Overfull \hbox (3.29912pt too wide) in paragraph at lines 231--231
+Overfull \hbox (4.95634pt too wide) in paragraph at lines 258--258
 [][]| 
  []
 
 
-Overfull \hbox (4.95634pt too wide) in paragraph at lines 231--231
+Overfull \hbox (4.14384pt too wide) in paragraph at lines 258--258
 [][]| 
  []
 
 
-Overfull \hbox (4.14384pt too wide) in paragraph at lines 231--231
-[][]| 
- []
-
-
-Overfull \hbox (1.70769pt too wide) in paragraph at lines 231--231
+Overfull \hbox (1.70769pt too wide) in paragraph at lines 258--258
 [][] 
- []
-
-
-Overfull \hbox (1.09435pt too wide) in paragraph at lines 231--231
-\T1/ClearSans-TLF/m/n/20.74 Computer Lit-er-acy
  []
 
 [1
 
 {C:/Users/leoda/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/leod
-a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{C:/Us
-ers/leoda/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/clearsans/clr_bjsdl7.en
-c} <./300x300.jpg>] (template.aux)
+a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/clearsans/clr_zxbkm4.enc} <./bo
+rder_image.png>] (template.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -913,23 +901,21 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20881 strings out of 467871
- 395321 string characters out of 5418376
- 819488 words of memory out of 5000000
- 49406 multiletter control sequences out of 15000+600000
- 680614 words of font info for 60 fonts, out of 8000000 for 9000
+ 20833 strings out of 467871
+ 394052 string characters out of 5418376
+ 815482 words of memory out of 5000000
+ 49364 multiletter control sequences out of 15000+600000
+ 679986 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,16n,121p,525b,890s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/leoda/AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clearsans/
-ClearSans-Regular.ttf><C:/Users/leoda/AppData/Local/Programs/MiKTeX/fonts/truet
-ype/intel/clearsans/ClearSans-Regular.ttf><C:/Users/leoda/AppData/Local/Program
-s/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Bold.pfb><C:/Users/leoda/AppData
-/Local/Programs/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><C:/Use
-rs/leoda/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb
->
-Output written on template.pdf (1 page, 104496 bytes).
+ClearSans-Regular.ttf><C:/Users/leoda/AppData/Local/Programs/MiKTeX/fonts/type1
+/intel/clearsans/ClearSans-Bold.pfb><C:/Users/leoda/AppData/Local/Programs/MiKT
+eX/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><C:/Users/leoda/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on template.pdf (1 page, 275040 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
