@@ -245,18 +245,18 @@
 
 % New environment for the long list
 \newenvironment{twenty}{%
-	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}p{0.8cm}p{\dimexpr\textwidth-1cm\relax}}
+	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}p{0.8cm}p{\dimexpr\textwidth-0.9cm\relax}}
 }{%
 	\end{tabular*}
 }
 
 \newcommand{\twentyitem}[4]{%
-	#1&\parbox[t]{\dimexpr\textwidth-1cm\relax}{%
+	#1&\parbox[t]{\dimexpr\textwidth-0.9cm\relax}{%
 		\sloppy\raggedright%
-		{\tiny\textbf{#2}}%
+		{\scriptsize\textbf{#2}}%
 		\hfill%
-		{\tiny#3}\\%
-		{\tiny #4}\vspace{0.5\parsep}%
+		{\scriptsize#3}\\%
+		{\tiny #4}\vspace{0.4\parsep}%
 	}\\
 }
 
