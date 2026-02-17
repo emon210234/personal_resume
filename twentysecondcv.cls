@@ -245,17 +245,18 @@
 
 % New environment for the long list
 \newenvironment{twenty}{%
-	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
+	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}p{0.8cm}p{\dimexpr\textwidth-0.9cm\relax}}
 }{%
 	\end{tabular*}
 }
 
 \newcommand{\twentyitem}[4]{%
-	#1&\parbox[t]{0.81\textwidth}{%
-		\textbf{#2}%
+	#1&\parbox[t]{\dimexpr\textwidth-0.9cm\relax}{%
+		\sloppy\raggedright%
+		{\scriptsize\textbf{#2}}%
 		\hfill%
-		{\footnotesize#3}\\%
-		#4\vspace{\parsep}%
+		{\scriptsize#3}\\%
+		{\tiny #4}\vspace{0.4\parsep}%
 	}\\
 }
 
@@ -282,6 +283,6 @@
 %	 MARGINS AND LINKS
 %----------------------------------------------------------------------------------------
 
-\RequirePackage[left=7.6cm,top=0.1cm,right=1cm,bottom=0.2cm,nohead,nofoot]{geometry}
+\RequirePackage[left=7.4cm,top=0.1cm,right=0.3cm,bottom=0.2cm,nohead,nofoot]{geometry}
 
 \RequirePackage{hyperref}
